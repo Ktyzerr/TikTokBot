@@ -35,14 +35,9 @@ pip install aiogram yt-dlp
 Setup
 Put your bot token inside your bot script, e.g.
 
-python
-Копировать
-Редактировать
 API_TOKEN = "YOUR_TELEGRAM_BOT_API_KEY"
 Make sure cookies.txt is in your project folder (for Instagram Reels downloads)
 
 Run the bot
-bash
-Копировать
-Редактировать
+
 python bot.py
